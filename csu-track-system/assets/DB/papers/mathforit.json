@@ -1,0 +1,584 @@
+{
+    "id": "ppr006",
+    "title": "Maths for IT",
+    "image_url": "",
+    "Description": "The Math exam for Information Technology course is designed to test the mathematical skills and knowledge of students in the field of IT. The exam covers various mathematical concepts, including algebra, calculus, probability, and statistics, and their applications in solving real-world problems related to information technology.",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr006q001",
+            "question": "What is the difference between binary and decimal number systems?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Binary has two digits, while decimal has ten digits."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Decimal has two digits, while binary has ten digits."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Both systems have the same number of digits."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "37"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q002",
+            "question": "What is the process of converting a decimal number to a binary number?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Divide the decimal number by 2 until the quotient is 0, and write the remainders in reverse order."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Multiply the decimal number by 2 until the quotient is 0, and write the remainders in order."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": " Subtract the decimal number from 1 and write the result in binary form."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "47"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q003",
+            "question": "What is a Boolean algebra?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A branch of algebra that deals with the manipulation of logical expressions."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A type of algebra that uses only odd numbers."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A type of algebra that uses only even numbers."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "17/100"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q004",
+            "question": "What is the formula for finding the area of a circle?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A = πr^2"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A = 2πr"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A = πd^2"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1 time"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q005",
+            "question": "What is the difference between a geometric sequence and an arithmetic sequence?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": " In a geometric sequence, each term is multiplied by a common ratio, while in an arithmetic sequence, each term is added to a common difference."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "In an arithmetic sequence, each term is multiplied by a common ratio, while in a geometric sequence, each term is added to a common difference."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "There is no difference between the two sequences."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q006",
+            "question": "What is a matrix?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A rectangular array of numbers or variables."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A type of algebraic equation."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A method of solving equations using derivatives."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "37"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q007",
+            "question": "What is the formula for finding the slope of a line?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "m = (y2 - y1) / (x2 - x1)"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "m = (x2 - x1) / (y2 - y1)"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "m = (y1 - y2) / (x1 - x2)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "47"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q008",
+            "question": "What is the Pythagorean Theorem used for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Finding the length of the hypotenuse of a right triangle."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Finding the area of a rectangle."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Finding the area of a circle."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "17/100"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q009",
+            "question": "What is a polynomial?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "An expression consisting of one or more terms with coefficients and variables."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A type of equation that uses only even numbers."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A type of equation that uses only odd numbers."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1 time"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q010",
+            "question": "What is the quadratic formula used for?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Finding the roots of a quadratic equation."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Finding the slope of a line."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Finding the length of the hypotenuse of a right triangle."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q011",
+            "question": "What is a derivative?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The rate at which a function is changing at a given point."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The value of a function at a given point."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The slope of a tangent line at a given point."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "37"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q012",
+            "question": "What is an integral?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The area under a curve between two points."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The rate at which a function is changing at a given point."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The value of a function at a given point."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "47"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q013",
+            "question": "What is the difference between a scalar and a vector?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A scalar is a quantity that has only magnitude, while a vector has both magnitude and direction."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A scalar is a quantity that has both magnitude and direction, while a vector has only magnitude."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "There is no difference between the two."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "17/100"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q014",
+            "question": "What is limit?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The value that a function approaches as the input approaches a certain value."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The value of a function at a certain point."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The slope of a tangent line at a certain point."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1 time"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q015",
+            "question": "What is the formula for finding the volume of a cylinder?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "V = πr^2h"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "V = 2πr"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "V = πd^2"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q016",
+            "question": "What is the difference between a function and an equation?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "An equation is a statement of equality between two expressions, while a function is a relationship between an input and an output."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A function is a statement of equality between two expressions, while an equation is a relationship between an input and an output."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "There is no difference between the two."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "37"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q017",
+            "question": "What is the difference between a logarithm and an exponent?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A logarithm is the inverse of an exponent."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A logarithm and an exponent are the same thing."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "There is no difference between the two."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "47"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q018",
+            "question": "What is the formula for finding the perimeter of a rectangle?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "P = 2(l + w)"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "P = lw"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "P = 2l + 2w"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "17/100"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q019",
+            "question": "What is a complex number?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A number that can be written in the form a + bi, where a and b are real numbers and i is the imaginary unit."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A number that has no real part."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A number that is greater than zero."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1 time"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q020",
+            "question": "What is a logarithmic function?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": " A function that has a logarithm as the independent variable."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A function that has a logarithm as the dependent variable."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A function that has no logarithms."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q021",
+            "question": "What is a derivative?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The derivative of a function with respect to one of its variables, holding all other variables constant."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The derivative of a function with respect to all of its variables."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The derivative of a function with respect to its constants."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "37"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q022",
+            "question": "What is a set?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A collection of objects."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A type of equation."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "A type of function."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "47"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q023",
+            "question": "What is the difference between a permutation and a combination?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "A permutation is an arrangement of objects in which order matters, while a combination is an arrangement of objects in which order does not matter."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "A permutation is an arrangement of objects in which order does not matter, while a combination is an arrangement of objects in which order matters."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "There is no difference between the two."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "17/100"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q024",
+            "question": "What is the formula for finding the distance between two points in a coordinate plane?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "d = √((x2 - x1)^2 + (y2 - y1)^2)"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "d = (x2 - x1) + (y2 - y1)"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "d = (x2 - x1) - (y2 - y1)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1 time"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr006q025",
+            "question": "What is a limit in calculus?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "The value that a function approaches as the input approaches a certain value."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "The value of a function at a certain point."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "The slope of a tangent line at a certain point."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "4"
+                }
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

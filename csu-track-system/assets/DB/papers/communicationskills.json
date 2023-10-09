@@ -1,0 +1,538 @@
+{
+    "id": "ppr007",
+    "title": "CommunicationSkills",
+    "image_url": "",
+    "Description": "The Communication Skills subject exam for the Information Technology course is designed to evaluate students' abilities to effectively communicate technical information to different stakeholders. The exam will cover various topics such as verbal and nonverbal communication, cultural awareness, empathy, and the use of visual aids to convey technical concepts.",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr007q001",
+            "question": "Which of the following is an essential communication skill for information technology professionals?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Public speaking"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Multi-tasking"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Time management"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Active listening"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q002",
+            "question": "How can non-technical colleagues benefit from effective communication with information technology professionals?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "They can learn more about technical jargon."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "They can be involved in the decision-making process."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "They can improve their own communication skills."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above."
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr007q003",
+            "question": "Which of the following is a type of communication used in information technology?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Verbal"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Nonverbal"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Written"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above."
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q004",
+            "question": "How can written communication skills be improved in information technology?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "By using technical jargon."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "By using passive voice."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "By using plain language."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "By using acronyms."
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q005",
+            "question": "Which of the following is an example of nonverbal communication?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Email"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Phone call"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Facial expressions"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Report"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q006",
+            "question": "Why is empathy important in communication skills for information technology professionals?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "It helps build trust."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "It helps understand clients' perspectives."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "It helps understand technical problems."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above."
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q007",
+            "question": "How can cultural awareness impact communication skills in a globalized IT workplace?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "It can lead to misunderstandings."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "It can lead to increased collaboration."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "It can lead to faster decision-making."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "It has no impact on communication skills."
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr007q008",
+            "question": "What are some common communication challenges faced by information technology professionals?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Misunderstandings"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Technical jargon"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Resistance to change"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above."
+                }
+            ],
+            "correct_answer": "d) All of the above."
+        },
+        {
+            "id": "ppr007q009",
+            "question": "How can IT professionals effectively communicate technical information to non-technical stakeholders?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Use technical jargon."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Use plain language."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Use visual aids."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None of the above."
+                }
+            ],
+            "correct_answer": "C."
+        },
+        {
+            "id": "ppr007q010",
+            "question": "What is the importance of clarity in communication for IT?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "It helps avoid misunderstandings."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "It helps establish credibility."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "It helps build"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above."
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q011",
+            "question": "How can IT professionals effectively communicate technical problems and solutions to colleagues and clients?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Use technical jargon."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Use plain language."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Use visual aids."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "None of the above."
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr007q012",
+            "question": "What are the benefits of using visual aids in IT communication?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "They help break down complex technical information"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "They help engage the audience"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "They help reinforce the message"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above."
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q013",
+            "question": "What is the role of emotional intelligence in communication skills for IT?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "It helps build trust"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "It helps understand clients' perspectives."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "It helps understand technical problems."
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above."
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr007q014",
+            "question": "How can IT use storytelling techniques to communicate complex technical information?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Use technical jargon."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Use plain language."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Use metaphors"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Use acronyms"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr007q015",
+            "question": "What are some strategies for overcoming communication barriers in the IT workplace",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Use plain language."
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Clarify expectations"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Use visual aids"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q016",
+            "question": "How can It develop effective communication plans for project management?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Set clear goals and expectations"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Establish regular communication channels"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Documents and track progress"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q017",
+            "question": "How does communication differ in virtual and remote IT work environments?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "It is less frequent"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "It is less effective"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "It relies more on technology"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "It relies less on technology"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr007q018",
+            "question": "How can IT professionals use conflict resolution skills to manage difficult conversations?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Remain calm and onjective"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Listen actively"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Focus on the problem, not the person"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q019",
+            "question": "What are some effective communication strategies for managing remote teams in IT?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Remain calm and onjective"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Listen actively"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Focus on the problem, not the person"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q020",
+            "question": "How can It use active listening to build stronger relationships with collegues and clients",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Maintain eye contact"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Avoid interrupting"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Paraphrase to ensure understanding"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q021",
+            "question": "What role does trust play in effective communication for IT professionals?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "It helps build rapport"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "It helps establish credibility."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "It helps promote collaboration"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q022",
+            "question": "What are some common mistakes made in IT communication, and how can they be avoided?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Using techinical jargon"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Failing to listen actively."
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Not adapting communication style to the audience"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr007q023",
+            "question": "How can IT professionals use communication skills to enhance their career growth and professional development?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Develop strong interpersonal skills"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Seek out opportunities to practice communication skills"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Network with collegues and industry "
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "All of the above"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

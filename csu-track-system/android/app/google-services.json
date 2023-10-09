@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "127790324022",
+    "project_id": "csu-aparri-examination",
+    "storage_bucket": "csu-aparri-examination.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127790324022:android:cff6a1225ede4385b4bb97",
+        "android_client_info": {
+          "package_name": "com.example.csua_examination_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127790324022-gg96v2v2qud4jmec2oddr057tm28ni7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csua_examination_app",
+            "certificate_hash": "3abc4f0b09f9f31407131f363a9870d7c2a2aae4"
+          }
+        },
+        {
+          "client_id": "127790324022-dd1r1761c8vds5sbsgvori9u9if3hht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8cHG-lgg33KPgTfB5QpjKsn0xwjIuTFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127790324022-dd1r1761c8vds5sbsgvori9u9if3hht9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127790324022-h8tqbohbsc8dgljd1m0coikds2nm47fl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.csuaExaminationApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127790324022:android:fd8ce29043246e05b4bb97",
+        "android_client_info": {
+          "package_name": "com.example.quizzledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127790324022-dd1r1761c8vds5sbsgvori9u9if3hht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8cHG-lgg33KPgTfB5QpjKsn0xwjIuTFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127790324022-dd1r1761c8vds5sbsgvori9u9if3hht9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127790324022-h8tqbohbsc8dgljd1m0coikds2nm47fl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.csuaExaminationApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
