@@ -1,6 +1,6 @@
-# quizzle
+# CSU-APTR
 
-A new Flutter project.
+A Capstone Flutter project.
 
 ## Getting Started
 
